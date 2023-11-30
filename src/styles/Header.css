@@ -1,0 +1,21 @@
+.nav-bar{
+    display: flex;
+    margin-bottom: 10px;
+
+    
+}
+.nav-bar :nth-child(1){
+    padding: 9px;
+}
+.nav-bar :nth-child(2){
+    padding: 9px;
+    position: absolute;
+    top: 20px;
+    
+}
+.nav-bar :nth-child(3){
+    padding: 9px;
+    position: absolute;
+    top: 40px;
+
+}
