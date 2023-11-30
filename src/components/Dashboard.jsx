@@ -1,8 +1,8 @@
-
+import '../styles/Header.css'
 function Dashboard() {
     return (
       <>
-        <h1>Dashboard </h1>
+        <h1 className="titulo">Dashboard </h1>
       </>
     )
   }

@@ -1,8 +1,8 @@
-
+import '../styles/Header.css'
 function About() {
     return (
       <>
-        <h1>About </h1>
+        <h1 className="titulo">About </h1>
       </>
     )
   }
